@@ -1,0 +1,8 @@
+{
+  "name": "qrCodeTest2",
+  "app_id": "464a33d1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
